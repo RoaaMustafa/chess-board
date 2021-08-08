@@ -2,7 +2,7 @@
 
 ## Auther :Roaa
 
-## PR: https://github.com/RoaaMustafa/chess-board/pull/1
+## PR: https://github.com/RoaaMustafa/chess-board/pull/2
 
 ## description:
 
